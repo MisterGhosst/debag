@@ -1,0 +1,85 @@
+body {
+    background-color: #deb887;
+}
+
+#Morty {
+    height: 200px;
+    width: 370px;
+}
+
+
+#Head {
+    height: 200px;
+    width: 500px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    display: block;
+    margin: 0 auto;
+}
+
+
+#Rick {
+    height: 200px;
+}
+
+
+#table1 {
+    width: 100%;
+    border-spacing: 0;
+}
+
+
+#table2 {
+    width: 100%;
+    border-spacing: 0;
+}
+
+
+
+#Birdperson {
+    width: 250px;
+    height: 150px;
+}
+
+#MrPoopy {
+    height: 200px;
+    width: 200px;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
